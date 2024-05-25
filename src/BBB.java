@@ -1,5 +1,6 @@
 import java.util.*;
 
+//binary swapping
 public class BBB{
     public static void main(String[] args){
         int a = 10;
