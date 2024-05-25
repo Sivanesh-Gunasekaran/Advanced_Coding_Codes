@@ -20,8 +20,8 @@ class Addition{
     public static void main(String[] args) {
         int a = 5;
         int b = 10;
-        String x = "blessy";
-        String y = "Shiva";
+        String x = "Siva";
+        String y = "nesh";
         int two = add(a,b);
         System.out.println("two number: "+two);
         int c = two;
