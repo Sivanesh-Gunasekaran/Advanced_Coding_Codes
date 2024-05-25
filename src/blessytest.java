@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class blessytest {
+public class SwapBits {
     public static void main(String[] args) {
         char ch = 'f'; // Initialize character ch with 't'
         int bin = ch - 'a' + 1; // Calculate the position of 't' in the alphabet
